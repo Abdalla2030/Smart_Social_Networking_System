@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1626725492 source:c:\users\dreamonline\onedrive - cairo university - students\desktop\smart social networking system\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<fstream>
+
