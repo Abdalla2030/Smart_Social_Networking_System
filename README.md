@@ -1,6 +1,6 @@
 # Smart_Social_Networking_System
 
-### Data Structures Project
+## Data Structures Project
 
 
 # Watch video for more details
