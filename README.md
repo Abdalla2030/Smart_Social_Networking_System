@@ -1,6 +1,9 @@
 # Smart_Social_Networking_System
-Data Structures Project
+
+###Data Structures Project
 
 
-https://www.youtube.com/watch?v=ZEkPJeEzYBs&t=35s
+# Watch video for more details
+[![Watch the video](https://yt-embed.herokuapp.com/embed?v=ZEkPJeEzYBs&t=35s)](https://www.youtube.com/watch?v=ZEkPJeEzYBs&t=35s)
+
 
